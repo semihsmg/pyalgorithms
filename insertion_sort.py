@@ -1,3 +1,6 @@
+# insertion sort algorithm with increasing order
+# to be able to sort the array into non-increasing order just change key comparison '>' to '<' in while loop
+
 arr = input('Enter an array of numbers with whitespace between them:\n').split(' ')
 
 # arr = [3, 6, 1, 5, 2, 4]
