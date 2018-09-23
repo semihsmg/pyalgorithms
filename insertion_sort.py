@@ -1,4 +1,6 @@
-arr = [3, 6, 1, 5, 2, 4]
+arr = input('Enter an array of numbers with whitespace between them:\n').split(' ')
+
+# arr = [3, 6, 1, 5, 2, 4]
 
 for j in range(len(arr)):
     key = arr[j]
