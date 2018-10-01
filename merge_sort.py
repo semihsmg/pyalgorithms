@@ -33,6 +33,6 @@ def merge_sort(lst):
     print('Merging: ', lst)
 
 
-lst = [3, 6, 1, 5, 2, 4]
+order = [3, 6, 1, 5, 2, 4]
 
-merge_sort(lst)
+merge_sort(order)
